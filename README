@@ -1,0 +1,2 @@
+charset-test is a simple Java servlet that demonstrates some of the
+concerns about character encoding issues for Java Web applications.
